@@ -1,6 +1,6 @@
 # 🌤️ Weather Intelligence Platform
 
-A production-grade weather dashboard built with **React**, **Vite**, **Axios**, **TailwindCSS**, and the **WeatherAPI.com** free API.
+A weather dashboard built with **React**, **Vite**, **Axios**, **TailwindCSS**, and the **WeatherAPI.com** free API.
 
 ## Features
 
